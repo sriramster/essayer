@@ -1,0 +1,31 @@
+/* I m just obssed with id's */
+{
+    'error':'DownTime',
+    'bot' : 
+    [
+	{'id':'0',
+	 'profile':
+	 {
+	     'name':'mzbot',
+	     'identity':'Batman',
+	     'place':'Bangalore,India',
+	     'dateofbirth':'24-May-2013',
+	     'owner':'Linux Guy',
+	     'About':'Well, bot if you see..',
+	     'channels':['#linux','#emacs'],
+	 },
+	},
+	{'id':'1',
+	 'profile':
+	 {
+	     'name':'csbot',
+	     'identity':'Alfred',
+	     'place':'Bangalore,India',
+	     'dateofbirth':'24-May-2013',
+	     'owner':'Humanoid',
+	     'About':'Well, bot if you see..',
+	     'channels':['#linux','#emacs'],
+	 },
+	},
+    ],
+}
